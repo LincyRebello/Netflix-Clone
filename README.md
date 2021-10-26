@@ -1,4 +1,4 @@
-Check the live demo here [Netflic-clone](https://netflix-clone-b484b.web.app/)
+Check the live demo here [Netflix-clone](https://netflix-clone-b484b.web.app/)
 
 # Getting Started with Create React App
 
